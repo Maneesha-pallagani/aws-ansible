@@ -11,7 +11,7 @@
       image: ami-14c5486b # This is an AMI i created myself
       keypair: manishan12345 # This is one of my keys that i already have in AWS
       region: us-east-1 # Change the Region
-      count: 1
+      count: 2
 
     # Task that will be used to Launch/Create an EC2 Instance
     tasks:
